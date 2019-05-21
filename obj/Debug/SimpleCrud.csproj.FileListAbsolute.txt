@@ -1,0 +1,16 @@
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\bin\Debug\SimpleCrud.exe.config
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\bin\Debug\SimpleCrud.exe
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\bin\Debug\SimpleCrud.pdb
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.csprojAssemblyReference.cache
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.Properties.Resources.resources
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.csproj.GenerateResource.cache
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.exe
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.pdb
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\bin\Debug\MySql.Data.dll
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\bin\Debug\Google.Protobuf.dll
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\bin\Debug\MySql.Data.xml
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.loginForm.resources
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.csproj.CopyComplete
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.Main.resources
+C:\Users\junio\source\repos\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.Add.resources
